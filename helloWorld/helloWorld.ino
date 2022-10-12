@@ -13,6 +13,7 @@ void loop() {
     delay(1000);
     digitalWrite(8, HIGH);//peters changes
     delay(1000);//peters changes
+    //peter was here
   }
 }
 //Joey was here
